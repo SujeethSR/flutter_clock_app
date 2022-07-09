@@ -7,6 +7,7 @@ import 'views/homepage.dart';
 
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();
+    
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
